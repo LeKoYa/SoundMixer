@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEC11R-4015F-S0024
+D Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft (Not Indexed), Through Hole
+K
+F https://www.bourns.com/docs/Product-Datasheets/pec11R.pdf
+$ENDCMP
+#
+#End Doc Library

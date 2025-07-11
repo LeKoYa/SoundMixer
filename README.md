@@ -26,7 +26,7 @@ For the LEDs i've designed a custom pcb with a size of 3x3cm. On the front side 
 
 The pcb was designed in kicad. I am still working on a version2 that features two pcbs stacked on top of each other, so the encoder does not stick out too far above the leds.
 
-I will upload the files once i think that i'm happy with the pcb. Let me know if you would be interested in this or the following version
+
 
 ### Enclosure
 The entire enclosure is 3d-printed, mainly in PLA. The diffusers in front of the led rings are made out of translucent PETG.
